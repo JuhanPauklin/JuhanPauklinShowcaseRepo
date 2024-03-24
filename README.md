@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @VariniusKrieg
-- 👀 I’m interested in ... programming
-- 🌱 I’m currently learning ... Github stuff
-- 💞️ I’m looking to collaborate on ... a project
+- 👋 Hi, I’m Juhan Pauklin
+- 👀 I’m interested in robotics, artificial intelligence and data science, 
+- 🌱 I’m currently learning in Computer Science in University of Tartu
 
 <!---
 VariniusKrieg/VariniusKrieg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
